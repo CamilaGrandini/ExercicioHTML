@@ -1,0 +1,12 @@
+#cor_cinza{
+    color:gray;
+}
+.cor_rosa{
+    color: pink;
+}
+.menu{
+    text-align: center;
+    letter-spacing: 5px;
+    background-color: black;
+    height: 50px;
+}
